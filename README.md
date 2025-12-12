@@ -6,3 +6,8 @@
 - Experiment with detection methods
     - Scoring heuristics (e.g. abnormally high score)
     - CoT/chat history detection (e.g. LLM-as-a-judge approach)
+
+## Who's behind this?
+- [Art Moskvin (Research Engineer)](https://github.com/artmoskvin)
+- [Josh Brown (Research Engineer)](https://github.com/joshuatbrown)
+- [Shivam Arora (Research Advisor)](https://github.com/Saroramath)
